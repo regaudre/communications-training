@@ -8,3 +8,7 @@
 ``` javascript
 var myVar = "I don't know javascript :)";
 ```
+- [x] complete github training
+- [ ] eat dinner
+- [ ] go to the gym
+- [ ] sleep
